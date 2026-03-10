@@ -55,7 +55,6 @@
 **Student Performance Table:**  
 ![Student Performance](Demo/Demo_1.png)
 
-> ضع أي صور إضافية في فولدر `Demo/` واستخدم نفس الأسلوب لعرضها هنا.
 
 ---
 
